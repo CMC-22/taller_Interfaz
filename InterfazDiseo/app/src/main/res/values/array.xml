@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arrayProducto">
+        <item>Trajes</item>
+        <item>Camisas</item>
+        <item>Pantalones</item>
+        <item>Jeans</item>
+        <item>Chaquetas y Abrigos</item>
+        <item>Ropa Deportiva</item>
+        <item>Ropa Interior</item>
+        <item>Vestidos</item>
+        <item>Blusas</item>
+        <item>Bolsos</item>
+        <item>Carteras</item>
+        <item>Zapatos</item>
+        <item>Cinturones</item>
+        <item>Gafas</item>
+        <item>Bufandas y Pañuelos</item>
+        <item>Guantes</item>
+        <item>Sombreros y Gorras</item>
+        <item>Joyerria</item>
+        <item>Relojes</item>
+        <item>Perfumes</item>
+        <item>Lociones y geles de ducha</item>
+        <item>Ropa de cama</item>
+        <item>Toallas</item>
+        <item>Accesorios de baño</item>
+    </string-array>
+</resources>
